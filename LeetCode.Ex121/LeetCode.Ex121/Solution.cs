@@ -1,10 +1,11 @@
-﻿using System;
-namespace LeetCode.Ex121
+﻿namespace LeetCode.Ex121
 {
     public class Solution
     {
-        public Solution()
+        public int MaxProfit(int[] prices)
         {
+
+            return 0;
         }
     }
 }
